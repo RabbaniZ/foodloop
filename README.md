@@ -22,6 +22,11 @@ FoodLoop adalah platform berbasis web yang dikembangkan untuk mengatasi permasal
 3. Lakukan pemesanan dan pembayaran
 4. Ambil pesanan di restoran yang dipesan
 
+## Rencanca Pengembangan Mendatang
+1. Integrasi fitur pembayaran digital
+2. Notifikasi ketersediaan makanan berdasarkan preferensi pengguna
+3. Kolaborasi dengan mitra logistik untuk pengambilan/pengiriman makanan
+
 ## Tim Pengembang
 Kelompok 8 - R Programming BR1
 1. Muhammad Haidar Alfarizi
